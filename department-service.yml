@@ -1,0 +1,1 @@
+server.port: ${DEPARTMENT_SERVICE_PORT:9110}
